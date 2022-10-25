@@ -1,0 +1,23 @@
+{
+  "name": "projeto-inflacao",
+  "version": "1.0.0",
+  "description": "Projeto inflacao JS",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richardrx12/Projeto-Infla-o-JS.git"
+  },
+  "author": "Richard Linhares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Richardrx12/Projeto-Infla-o-JS/issues"
+  },
+  "homepage": "https://github.com/Richardrx12/Projeto-Infla-o-JS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
